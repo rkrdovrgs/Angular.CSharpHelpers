@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Angular.CSharpHelpers")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("The Mergermarket Group")]
+[assembly: AssemblyCompany("rkrdovrgs")]
 [assembly: AssemblyProduct("Angular.CSharpHelpers")]
-[assembly: AssemblyCopyright("Copyright © The Mergermarket Group 2014")]
+[assembly: AssemblyCopyright("Copyright © rkrdovrgs 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
